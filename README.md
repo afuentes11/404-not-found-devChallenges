@@ -34,7 +34,6 @@
 <!-- OVERVIEW -->
 
 ## Overview
-![screenshot](https://github.com/afuentes11/404-not-found-devChallenges/blob/master/img/screenshot.png)
 ![screenshot](https://github.com/afuentes11/404-not-found-devChallenges/blob/master/img/web.gif)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
@@ -48,9 +47,8 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
 ## Features
 
