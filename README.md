@@ -36,12 +36,11 @@
 ## Overview
 ![screenshot](https://github.com/afuentes11/404-not-found-devChallenges/blob/master/img/web.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+The project consists of the creation of a responsive 404 error page. The design was provided by Devchallenges in the challenge.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+The page can be viewed at the following [link](https://www.linkedin.com/in/andresfuentesmartinez/). If you liked the project, give me a star ⭐.
+
+The development of the challenge allowed me to reinforce my layout skills using css and html, to the point of being able to add animations.
 
 ### Built With
 
