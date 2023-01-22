@@ -59,6 +59,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
 - GitHub [@afuentes11](https://github.com/afuentes11)
 - Linkedin [andresfelipefuentes](https://www.linkedin.com/in/andresfuentesmartinez/)
