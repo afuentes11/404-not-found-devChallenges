@@ -36,7 +36,7 @@
 ## Overview
 ![screenshot](https://github.com/afuentes11/404-not-found-devChallenges/blob/master/img/web.gif)
 
-The project consists of the creation of a responsive 404 error page. The design was provided by Devchallenges in the challenge.
+The project consists of the creation of a responsive 404 error page. The original [desing]( https://www.figma.com/embed?embed_host=astra&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQeKWLNhB13zDjJzqR22TKE%2F404-page%3Fnode-id%3D0%253A1&amp;chrome=DOCUMENTATION) was provided by Devchallenges in the challenge.
 
 The page can be viewed at the following [link](https://www.linkedin.com/in/andresfuentesmartinez/). If you liked the project, give me a star ⭐.
 
@@ -49,11 +49,14 @@ The development of the challenge allowed me to reinforce my layout skills using 
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+ - User story: I can see a page following the given design
 
 
 ## Contact
