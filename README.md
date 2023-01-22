@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://afuentes11.github.io/404-not-found-devChallenges/">
       Demo
     </a>
     <span> | </span>
@@ -38,7 +38,7 @@
 
 The project consists of the creation of a responsive 404 error page. The original [desing]( https://www.figma.com/embed?embed_host=astra&amp;url=https%3A%2F%2Fwww.figma.com%2Ffile%2FQeKWLNhB13zDjJzqR22TKE%2F404-page%3Fnode-id%3D0%253A1&amp;chrome=DOCUMENTATION) was provided by Devchallenges in the challenge.
 
-The page can be viewed at the following [link](https://www.linkedin.com/in/andresfuentesmartinez/). If you liked the project, give me a star ⭐.
+The page can be viewed at the following [link](https://afuentes11.github.io/404-not-found-devChallenges/). If you liked the project, give me a star ⭐.
 
 The development of the challenge allowed me to reinforce my layout skills using css and html, to the point of being able to add animations.
 
